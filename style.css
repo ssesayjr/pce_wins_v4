@@ -835,6 +835,8 @@ img, i {
   align-items: center;
   justify-content: center;
   text-align: center;
+    z-index: 1000;
+
 }
 
   .container{
@@ -901,6 +903,7 @@ img, i {
   align-items: center;
   justify-content: center;
   text-align: center;
+  z-index: 1000;
 }
   .container{
     text-align: center;
