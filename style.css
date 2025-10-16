@@ -115,6 +115,7 @@ ul.nav li {
 ul.nav li a {
   transition: color 0.2s linear;
   font-size: 18px;
+  color: #fff;
 }
 ul.nav .white li a {
   transition: color 0.2s linear;
@@ -773,8 +774,12 @@ ul.nav li a:hover {
   font-size: 1rem;
   border-radius: 10px;
   transition: background 0.15s linear;
+  color: white;
 }
+.call span a{
 
+  color: white;
+}
 .call span:hover span:hover {
   background: rgba(255, 255, 255, 0.5);
   color: #000;
