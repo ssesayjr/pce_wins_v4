@@ -889,6 +889,10 @@ img, i {
     max-width: fit-content;
     gap: 1rem;
 }
+.call span a{
+
+  color: white;
+}
 }
 
 /* Small devices (phones) */
@@ -952,6 +956,9 @@ img, i {
     font-size: 0.9rem;
     padding: 0.4rem 0.8rem;
   }
+  .call span a{
+  color: white;
+}
 
   .hero h1 {
     font-size: 1.75rem;
