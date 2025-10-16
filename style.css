@@ -842,7 +842,13 @@ img, i {
   }
 
   h1.hero {
+    font-family: "Quintessential", serif;
     font-size: 2rem;
+  }
+
+  h2.hero {
+    font-family: "Quintessential", serif;
+    font-size: 1.5rem;
   }
 
   .section .mainHeader {
