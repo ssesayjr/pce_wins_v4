@@ -838,7 +838,7 @@ img, i {
   }
 
   li.menu-wrapper{
-    position: fixed;
+    position: RELAT;
   }
 
   h1.hero {
@@ -879,6 +879,8 @@ img, i {
 
   ul.nav {
     flex-wrap: wrap;
+    flex-direction: row;
+    display: inline;
     justify-content: center;
     position: relative;
     min-height: 5vh;
