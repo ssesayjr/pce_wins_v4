@@ -831,7 +831,7 @@ img, i {
 
   .section .mainHeader {
   background-image: url(style/images/index_background_3.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -899,7 +899,7 @@ img, i {
 
   .section .mainHeader {
   background-image: url(style/images/index_background_3.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
