@@ -726,7 +726,7 @@ ul.nav li a:hover {
   background-image: url("./style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center center;
   background-attachment: fixed;
   background-color: #cccccc;
   min-height: 60vh;
@@ -833,7 +833,6 @@ img, i {
   background-image: url("./style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
   background-attachment: fixed;
   background-color: #cccccc;
   background-position: center center;
@@ -906,7 +905,6 @@ img, i {
   background-image: url("./style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
   background-attachment: fixed;
   background-color: #cccccc;
   background-position: center center;
