@@ -833,7 +833,6 @@ img, i {
   background-image: url("./style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-color: #cccccc;
   background-position: center center;
   display: flex;
@@ -905,7 +904,6 @@ img, i {
   background-image: url("./style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-color: #cccccc;
   background-position: center center;
   display: flex;
