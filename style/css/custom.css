@@ -2431,7 +2431,7 @@ body{
     left: -1px;
 }
 .fables-choose-background{
-    background-image: url("../images/desk_items_overlay.png"); 
+    background-image: url("./images/desk_items_overlay.png"); 
 }
 .colored-table .table-badge{
     left: -24px;
