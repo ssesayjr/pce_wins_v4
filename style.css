@@ -41,7 +41,7 @@ body {
 }
 
 .section .mainHeader{
-  background-image: url("../style/images/index_background_3.png");
+  background-image: url("style/images/index_background_3.png");
   background-size: cover; /* Make the image cover the entire element */
   background-repeat: no-repeat; /* Prevent the image from repeating */
   background-position: center center; /* Center the image */
@@ -723,7 +723,7 @@ ul.nav li a:hover {
 
 /* Hero and Background Scaling */
 .section .mainHeader {
-  background-image: url("../style/images/index_background_3.png");
+  background-image: url("style/images/index_background_3.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -830,7 +830,7 @@ img, i {
   }
 
   .section .mainHeader {
-  background-image: url("../style/images/index_background_3.png");
+  background-image: url("style/images/index_background_3.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -902,7 +902,7 @@ img, i {
   }
 
   .section .mainHeader {
-  background-image: url("../style/images/index_background_3.png");
+  background-image: url("style/images/index_background_3.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
