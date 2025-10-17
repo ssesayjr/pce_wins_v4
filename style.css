@@ -722,19 +722,7 @@ ul.nav li a:hover {
 }
 
 /* Hero and Background Scaling */
-.section .mainHeader {
-  background-image: url("./style/images/index_background_3.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-color: #cccccc;
-  min-height: 60vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
+
 
 /* Responsive Columns */
 .newrow {
